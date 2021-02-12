@@ -1,0 +1,42 @@
+
+.bSpace {font-family:monospace;
+    text-align:left;
+background-color:black;
+    color:silver;
+    height:100%;
+    width:100%;
+    }
+.myDiv{
+    background-color:white;
+    color:black;
+    height:300px;
+    width:100%;
+    align-content:center;
+   
+}
+
+    h2{
+        font-family:monospace;
+    position:relative;
+    align-content: left;
+    }
+    
+    h1{font-weight:bold;
+    color:white;
+    position:relative;
+    left:10px;
+    }
+    p{
+    background-color:gray;
+    font-weight:normal;
+    color:silver;
+     height:100px;
+    width:100%;
+    border:40px solid gray;
+    border-radius:30px;
+    }
+    p{
+    position:relative;
+    left:100px;
+    
+    }
